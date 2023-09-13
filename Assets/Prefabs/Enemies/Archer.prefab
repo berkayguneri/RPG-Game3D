@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2154991639648388069
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193963879794804, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193964806811138, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: m_Name
+      value: Archer
+      objectReference: {fileID: 0}
+    - target: {fileID: 2794193964806811148, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: defaultWeapon
+      value: 
+      objectReference: {fileID: 11400000, guid: cfaef6d672f6f2d43830763c7d737f39, type: 2}
+    - target: {fileID: 5944843521182086425, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
+      propertyPath: chaseDistance
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 030445188a9165440b9b67b4aa1fbe9d, type: 3}
